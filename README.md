@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Okoń</h1>
 <h3 align="center">A passionate AI/ML developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikolajokon&label=Profile%20views&color=0e75b6&style=plastic" alt="mikolajokon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikolajokon" alt="mikolajokon" /></a> </p>
+
+
+- 🔭 I’m currently working on [Analyzing Car Reviews with LLMs](https://github.com/mikolajokon/Analyzing-Car-Reviews-with-LLMs)
 
 - 🌱 I’m currently learning **AI Engineering for developers**
 
@@ -39,4 +40,5 @@
    <li>The Git & Github Bootcamp_____________________________________________ | 10.2022 - [Udemy] </li>
   <li>Modern React and Redux_______________________________________________ | 09.2022 - [Udemy] </li>
 </ul>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mikolajokon&label=Profile%20views&color=0e75b6&style=plastic" alt="mikolajokon" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikolajokon" alt="mikolajokon" /></a> </p>
